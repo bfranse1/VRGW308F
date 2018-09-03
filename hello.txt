@@ -1,2 +1,2 @@
 Hallo
-Ik kan succesvolle commit messages gebruiken :D
+Ik kan succesvolle commit messages gebruiken. Deze commit maak ik om een screenshot te maken voor bewijslast.
